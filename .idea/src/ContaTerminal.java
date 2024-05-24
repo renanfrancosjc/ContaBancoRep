@@ -22,6 +22,7 @@ public class ContaTerminal{
         System.out.println("Saldo");
         int saldo = sc.nextFloat();
 
-        System.out.println("Ola " + nomeCliente + " sua conta " + numero + " / " + agencia + " Seu saldo é de R$" + saldo);
+        System.out.println("Ola " + nomeCliente + "Seja bem vindo ao banco dio");
+        System.out.println(" sua conta " + numero + " / " + agencia + " Seu saldo é de R$" + saldo);
     }
 }
